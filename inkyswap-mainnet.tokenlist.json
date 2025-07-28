@@ -263,5 +263,13 @@
          "decimals": 18,
          "logoURI": "https://storage.inkypump.com/storage/v1/object/public/images/a25dff3157c6a5e1400481edaaa434dd9358455bc95b4b081430ccaf25040423.png"
       }
+      {
+  "chainId": 57073,
+  "address": "0x79A79d6c4b9F29a9f7BcD6Ab606E95a23c13513d",
+  "name": "RUGI",
+  "symbol": "RUGI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/rugi334/swap-token-list/main/logo/rugi.png"
+}
    ]
 }
